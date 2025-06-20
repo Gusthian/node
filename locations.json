@@ -1,0 +1,100 @@
+[
+    {
+      "country": "Brazil",
+      "continent" : "South America",
+      "city" : "São Paulo",
+      "typeOfTourism" : "Gastronomic",
+      "about" : "São Paulo, Brazil's vibrant heart, is a colossal metropolis teeming with energy and diversity. As Latin America's economic powerhouse, 'Sampa' pulsates with a dynamic cultural scene, world-class gastronomy, and a unique blend of traditions shaped by its vast immigrant history. A concrete jungle with hidden green spaces, it offers an intense and unforgettable urban experience.",
+      "src" : "../images/destination-sao-paulo.jpg",
+      "sightseen" : ["Parque Ibirapuera", "Sé Cathedral", "Museu do Futebol", "Allianz Parque"]
+    },{
+      "country" : "Bolivia",
+      "continent" : "South America",
+      "city" : "Uyuni",
+      "typeOfTourism" : "Adventure",
+      "about" : "Uyuni, Bolivia, is a high-altitude town serving as the gateway to the surreal Salar de Uyuni, the world's largest salt flats. 1  This stark yet stunning landscape offers otherworldly vistas and serves as a hub for exploring the surrounding Andean wonders.",
+      "src" : "../images/destination-salar-de-uyuni.jpg",
+      "sightseen" : ["Salar de Uyuni"]
+    },{
+      "country" : "India",
+      "continent" : "Asia",
+      "city" : "Taj Mahal",
+      "typeOfTourism" : "Cultural",
+      "about" : "The Taj Mahal, an iconic ivory-white marble mausoleum in Agra, India, stands as a timeless testament to love. Built by Mughal emperor Shah Jahan for his wife, Mumtaz Mahal, its breathtaking beauty and intricate artistry continue to captivate the world. A true wonder of Mughal architecture.",
+      "src" : "../images/destination-taj-mahal.jpg",
+      "sightseen" : ["Taj Mahal"]
+    },{
+      "country" : "Poland",
+      "continent" : "Europe",
+      "city" : "Krakow",
+      "typeOfTourism" : "Leisure",
+      "about" : "Krakow, Poland, a city steeped in history and charm, boasts a beautifully preserved medieval Old Town, a vibrant cultural scene, and poignant reminders of its past, including the Wawel Castle and the former Jewish quarter of Kazimierz. A captivating blend of the old and the new.",
+      "src" : "../images/destination-krakow.jpg",
+      "sightseen" : ["St. Mary's Basilica", "Katedra Wawelska", "Podziemia Rynku"]
+    },{
+      "country" : "Thailand",
+      "continent" : "Asia",
+      "city" : "Phi Phi Islands",
+      "typeOfTourism" : "Sea",
+      "about" : "Phi Phi Islands, Thailand, are a stunning archipelago of turquoise waters, dramatic limestone cliffs, and powdery white-sand beaches. Famous for Maya Bay (from \"The Beach\"), these islands offer breathtaking natural beauty, vibrant coral reefs perfect for snorkeling and diving, and a quintessential tropical paradise escape.",
+      "src" : "../images/destination-phi-phi.jpg",
+      "sightseen" : ["Maya Bay", "Viking Cave", "Monkey Beach"]
+    },{
+      "country" : "Argentina",
+      "continent" : "South America",
+      "city" : "Buenos Aires",
+      "typeOfTourism" : "Leisure",
+      "about" : "Buenos Aires, Argentina, a captivating metropolis exuding European elegance and Latin American passion. Birthplace of tango and home to grand architecture, vibrant neighborhoods like San Telmo and Palermo pulsate with culture, world-class cuisine, and a unique 'porteño' spirit. A city that seduces with its history, art, and lively urban rhythm.",
+      "src" : "../images/destination-buenos-aires-obelisco.jpg",
+      "sightseen" : ["Obelisco", "Puerto Madero", "Camenito", "La Bombonera"]
+    },{
+      "country" : "Venezuela",
+      "continent" : "South America",
+      "city" : "Salto Angel",
+      "typeOfTourism" : "Adventure",
+      "about" : "Angel Falls, the world's tallest uninterrupted waterfall, plunges dramatically from the Auyán-tepuy mountain in Venezuela's Canaima National Park. This remote and breathtaking natural wonder, cascading nearly a kilometer, is a testament to the raw beauty and scale of the Guiana Highlands, captivating all who witness its misty grandeur.",
+      "src" : "../images/destination-salto-angel.jpg",
+      "sightseen" : ["Salto Angel Falls", "Parque Nacional Canaima"]
+    },{
+      "country" : "Greece",
+      "continent" : "Europe",
+      "city" : "Athens",
+      "typeOfTourism" : "Cultural",
+      "about" : "Athens, Greece, the ancient cradle of Western civilization, is a city where history breathes on every corner. 1  From the iconic Acropolis with the Parthenon to the charming Plaka district, Athens offers a captivating journey through millennia of philosophy, democracy, and art, seamlessly blending its glorious past with a vibrant modern energy.",
+      "src" : "../images/destination-athens.jpg",
+      "sightseen" : ["Salto Angel Falls", "Parque Nacional Canaima"]
+    },{
+      "country" : "Peru",
+      "continent" : "South America",
+      "city" : "Lima",
+      "typeOfTourism" : "Gastronomic",
+      "about" : "Lima, Peru's sprawling capital, is a vibrant metropolis where colonial history meets modern dynamism. From the well-preserved historic center, a UNESCO World Heritage site, to the bohemian Barranco district and the upscale Miraflores, Lima offers a rich tapestry of cultural experiences, a world-renowned culinary scene, and a captivating blend of ancient traditions and contemporary life along the Pacific coast.",
+      "src" : "../images/destination-lima-peru.jpg",
+      "sightseen" : ["Miraflores", "Barranco"]
+    },{
+      "country" : "Ireland",
+      "continent" : "Europe",
+      "city" : "Dublin",
+      "typeOfTourism" : "Leisure",
+      "about" : "Dublin, the vibrant capital of Ireland, is a city steeped in history, literature, and a famously welcoming spirit. 1  From its medieval Dublin Castle and the iconic Trinity College with the Book of Kells, to its traditional pubs echoing with live music and storytelling, Dublin offers a captivating blend of ancient heritage and lively contemporary culture. 1  A city that charms with its warmth and character.",
+      "src" : "../images/destination-dublin.jpg",
+      "sightseen" : ["Dublin Castle", "St. Patrick's Cathedral", "Guinnes House"]
+    },{
+      "country" : "Scotland",
+      "continent" : "Europe",
+      "city" : "Edimburgh",
+      "typeOfTourism" : "Leisure",
+      "about" : "Edinburgh, Scotland's captivating capital, is a city of dramatic landscapes and rich history. Dominated by the majestic Edinburgh Castle perched atop an extinct volcano, its medieval Old Town and elegant Georgian New Town offer a compelling contrast. With its lively festivals, literary heritage, and atmospheric charm, Edinburgh leaves a lasting impression.",
+      "src" : "../images/destination-edinburgh.jpg",
+      "sightseen" : ["Dublin Castle", "St. Patrick's Cathedral", "Guinnes House"]
+    },{
+      "country" : "Republica Dominicana",
+      "continent" : "Caribbean",
+      "city" : "Punta Cana",
+      "typeOfTourism" : "Sea",
+      "about" : "Punta Cana, Dominican Republic, is a premier Caribbean destination renowned for its pristine white-sand beaches, swaying palm trees, and turquoise waters. Offering luxurious resorts, world-class golf courses, and a vibrant atmosphere, it's the perfect escape for relaxation, watersports, and enjoying the quintessential tropical paradise.",
+      "src" : "../images/destination-punta-cana.jpg",
+      "sightseen" : ["Coco Bongo", "Isla Saona", "Hard Rock Casino"]
+    }
+  
+  ]
